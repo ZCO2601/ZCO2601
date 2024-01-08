@@ -3,7 +3,7 @@
 - 🔭 I’m currently working to improve my skills on Ruby and JavaScript after a training at Le Wagon in Paris for 9 weeks full-time intensive coding bootcamp learning HTML, CSS, Sass, Bootstrap, JavaScript ES6, Stimulus, Figma, PostgreSQL, git, GitHub, Heroku and Ruby on Rails
 - 🌱 I plan to start training in React to go further in my learning
 - 👯 I'm looking to collaborate on new projects with developers in order to work as a team and improve my skills
-- 📫 How to reach me: zairacosman@gmail.com
+- 📫 How to reach me: zairacosman@yahoo.fr
 
 ## My bootcamp projects 
 - CraftNest, an Air BnB clone (artist studio rental) : (https://craftnest-99b1807651be.herokuapp.com/)
